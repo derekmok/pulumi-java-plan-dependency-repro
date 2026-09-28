@@ -1,0 +1,6 @@
+name: plan-deps-ts
+description: Saved-plan property dependency repro (TypeScript)
+runtime:
+  name: nodejs
+  options:
+    packagemanager: npm

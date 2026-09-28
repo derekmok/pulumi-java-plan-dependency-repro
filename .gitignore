@@ -1,0 +1,10 @@
+.tools/
+.pulumi-home/
+.pulumi-state/
+typescript/node_modules/
+typescript/bin/
+java/.gradle/
+java/build/
+java/app/build/
+scratch/
+.vscode/
